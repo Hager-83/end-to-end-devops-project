@@ -1,0 +1,6 @@
+[submodule "application"]
+	path = application
+	url = https://github.com/Hager-83/ivolve-app-cicd.git
+[submodule "shared-library"]
+	path = shared-library
+	url = https://github.com/Hager-83/iVolve-jenkins-shared-library.git
